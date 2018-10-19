@@ -11,3 +11,23 @@ Metacello new
    githubUser: 'uca-is2-2018' project: 'el-juego-de-la-uca' commitish: 'master' path: 'repository';
    load: 'development'.
 ```
+
+## Enunciado
+
+### Parte 1
+
+Es un juego de mesa, con varios jugadores juando en secuencia, estos jugadores tiran un dado y avanzan tanto como indique el dado.
+
+Gana el primer jugador en cruzar el final del tablero.
+
+El tablero tiene N casilleros en secuencia. La cantidad de dados y  caras de los mismos pueden variar de juego a juego, pero siempre son los mismos durante un mismo juego
+
+#### Requisitos de aprobación
+
+- Dados de N caras.
+- Posibilidad de usar M dados, no necesariamente con la misma cantidad de caras.
+- El juego puede jugarse con más de un jugador.
+- La cantidad de casilleros del tablero puede variar de un juego a otro.
+- Se puede saber si terminó el juego.
+- Se puede sabre quien fue el ganador del juego.
+- Se puede saber en que posición terminó cada jugador.
