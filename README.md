@@ -1,7 +1,7 @@
 # Ingenieria del Software II - Template
 
-[![Build Status](https://travis-ci.org/serpi90/is2-template.svg?branch=master)](https://travis-ci.org/serpi90/is2-template)
-[![Coverage Status](https://coveralls.io/repos/github/serpi90/is2-template/badge.svg?branch=master)](https://coveralls.io/github/serpi90/is2-template?branch=master)
+[![Build Status](https://travis-ci.org/uca-is2-2018/el-juego-de-la-uca.svg?branch=master)](https://travis-ci.org/uca-is2-2018/el-juego-de-la-uca)
+[![Coverage Status](https://coveralls.io/repos/github/uca-is2-2018/el-juego-de-la-uca/badge.svg?branch=master)](https://coveralls.io/github/uca-is2-2018/el-juego-de-la-uca?branch=master)
 
 ## Metacello
 
